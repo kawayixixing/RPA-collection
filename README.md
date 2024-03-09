@@ -9,10 +9,11 @@
 # demo演示
 - [XWLB-V1.0.gif](demo演示/XWLB-V1.0.gif)
 - [XWLB-V2.0.gif](demo演示/XWLB-V2.0.gif)
-- [XWLB-V3.0.gif](demo演示/XWLB-V3.0.gif)
+- 3.0的demo不好录制。就放弃了。
 
-# 未来
+# 工作内容
 - [x]增加钉钉推送，完成自动化流程。
 
-#如果你懒得配置，那就加钉钉群，来白嫖吧。
+# 如果你懒得配置，那就加钉钉群，来白嫖吧。
+
 ![钉钉每日新闻联播群](https://github.com/kawayixixing/RPA-collection/assets/45343530/506f5a16-0dcc-4e77-b474-981ab17394f9)
