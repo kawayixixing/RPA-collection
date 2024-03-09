@@ -9,7 +9,7 @@
 # demo演示
 - [XWLB-V1.0.gif](demo演示/XWLB-V1.0.gif)
 - [XWLB-V2.0.gif](demo演示/XWLB-V2.0.gif)
-- 3.0的demo不好录制。就放弃了。
+- [XWLB-V3.0.png](demo演示/XWLB-V3.0.png)
 
 # 工作内容
 - [x]增加钉钉推送，完成自动化流程。
